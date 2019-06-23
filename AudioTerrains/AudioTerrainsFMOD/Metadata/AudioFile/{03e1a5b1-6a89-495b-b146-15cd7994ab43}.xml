@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{03e1a5b1-6a89-495b-b146-15cd7994ab43}">
+        <property name="assetPath">
+            <value>bensound-memories.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>230.29551020408164</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c72a19bc-5ef7-418d-b83b-0765f6a483db}</destination>
+        </relationship>
+    </object>
+</objects>

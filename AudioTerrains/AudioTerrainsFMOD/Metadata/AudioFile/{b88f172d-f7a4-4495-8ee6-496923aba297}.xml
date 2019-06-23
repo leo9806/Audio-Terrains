@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{b88f172d-f7a4-4495-8ee6-496923aba297}">
+        <property name="assetPath">
+            <value>bensound-happyrock.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>105.84816326530613</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c72a19bc-5ef7-418d-b83b-0765f6a483db}</destination>
+        </relationship>
+    </object>
+</objects>
